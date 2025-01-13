@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Semblanza | Jes Bernal</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Semblanza</h1>
+    <!-- Puedes repetir el mismo menú de navegación o un link de "Regresar a inicio" -->
+    <nav>
+      <a href="index.html">Inicio</a>
+      <nav>
+  <ul>
+    <li><a href="index.html">Inicio</a></li>
+    <li><a href="audios.html">Audios</a></li>
+    <li><a href="partituras.html">Partituras</a></li>
+    <li><a href="eventos.html">Próximos eventos</a></li>
+    <li><a href="contacto.html">Redes sociales y contacto</a></li>
+  </ul>
+</nav>
+
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <h2>Breve Biografía</h2>
+      <p>Compositor mexicano. <p> Graduado en el Conservatorio Nacional de Música en 2022. Se formó con Armando Luna y Juan Fernando Durán, y recibió instrucción particular de Juan Cristobal Cerrillo entre 2016 y 2020. Participó como oyente en el Laboratorio de Creación Musical de Julio Estrada de 2016 a 2018. <p>
+Recibió una beca del Programa Jóvenes Creadores del SACPC en la modalidad "Composición Acústica, Electroacústica y con Medios Electrónicos" en 2023, con la creación de "El clave mal temperado".<p>
+Actualmente cursa la maestría en composición en la Facultad de Música bajo la tutela del Dr. Cristian Morales Ossio, con el proyecto de teatro musical y creación colaborativa para la obra “Al féretro elegante” en colaboración con el colectivo TRAMAS. <p> Desde 2023 trabaja como dibujante musical en el Centro Nacional de Investigación, Documentación e Información Musical Carlos Chávez (CENIDIM). <p> Es miembro del colectivo de jóvenes compositores "Proyecto Ars Nova" desde 2021, participando en los proyectos apoyados por Ibermúsicas “Música comunitaria” en 2023, y “Habitar la ruina” en 2025.</p>
+    </article>
+  </main>
+</body>
+</html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
