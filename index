@@ -12,9 +12,10 @@
     <nav>
       <ul>
         <li><a href="semblanza.html">Semblanza</a></li>
-        <li><a href="audios.html">Audios</a></li>
+        <li><a href="escucha.html">Escucha</a></li>
         <li><a href="partituras.html">Partituras</a></li>
         <li><a href="eventos.html">Próximos eventos</a></li>
+        <li><a href="divulgacion.html">Proyecto de divulgación musical</a></li>
         <li><a href="contacto.html">Redes sociales y contacto</a></li>
       </ul>
     </nav>
