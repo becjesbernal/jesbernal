@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Escucha | Jes Bernal</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body>
+  <header>
+    <h1>Escucha</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="semblanza.html">Semblanza</a></li>
+        <li><a href="partituras.html">Partituras</a></li>
+        <li><a href="eventos.html">Próximos eventos</a></li>
+        <li><a href="contacto.html">Contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Videos de YouTube</h2>
+      <p>A continuación, algunos ejemplos de mi trabajo musical en video.</p>
+
+      <!-- Ejemplo de video incrustado -->
+      <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/watch?v=mpXvDsYtVMo" 
+        title="2021 El aire juega a los recuerdos, para violín, interpreta Cleo Yong" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/watch?v=7i6abQvuLiQ" 
+        title="2020 In hac lacrimarum valle, maqueta" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/IqlUrwp_I0s?si=k7TibQSm0kaOdQZb" 
+        title="2018 Paisaje, para cuatro pianos" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/ZxeTOad9TV4?si=Pu2KyX4SPMrcLIes" 
+        title="2017 Órgano, para 17 instrumentos de aliento" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/3aEAmYsTyAQ?si=nlGGDxdCF7UAKMcf" 
+        title="2017 Coro, para 6 voces femeninas" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+        <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/d8_SOYWbguI?si=kP34VDwWhJnqGema" 
+        title="2017 Sin vivir en mí, para voz y ensamble, interpreta Antonio Ortega" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+        <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/LIGnxLFwEAY?si=a-ScTayf7Mr7CYPr" 
+        title="2016 Siete esbozos para corno, cuarteto de cuerdas y arpa" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/szIrlNE9Vns?si=MbZsF9J7sNgJuk4F" 
+        title="2015 Pierre, para quinteto mixto" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/watch?v=2cP-tXUQUGQ" 
+        title="2014, Chistecito, para piccolo y tuba (no nos hacemos responsables del disgusto que este video le cause)" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+      <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/6TMkgCtr2mY?si=twl4kqjRvDIQoPsP" 
+        title="2014, Cinco piezas para flauta y piano (selección de 3), interpretan Karla M. Arias E. y David Elí García" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+       <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/zJ9ysW179l4?si=at2z3S3qG42VS2j5" 
+        title="2013, Laudes, para flauta sola, interpreta Karla Montserrat Arias Espinosa" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+      <iframe 
+        width="560" 
+        height="315" 
+        src="https://soundcloud.com/contemporadiomx/preludio-elegiaco-jesus-bernal" 
+        title="2013, Preludio elegíaco, para piano, interpreta Vela Velher" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+           <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/irrlxLWmGNE?si=TiYHoxeLf5lfcp9W" 
+        title="2012 & 2014, Dos miniaturas para piano" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+        </iframe>
+           <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.facebook.com/jesbernalc/videos/185770591434736" 
+        title="2010, BACH, para ensamble" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+      
+      <!-- Puedes repetir el mismo código para más videos cambiando el VIDEO_ID -->
+      
+      <!-- Si deseas un tamaño responsivo, revisa el apartado 3. -->
+    </section>
+  </main>
+</body>
+</html>
