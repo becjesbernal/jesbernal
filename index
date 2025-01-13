@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jes Bernal</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Jes Bernal</h1>
+    <nav>
+      <ul>
+        <li><a href="semblanza.html">Semblanza</a></li>
+        <li><a href="audios.html">Audios</a></li>
+        <li><a href="partituras.html">Partituras</a></li>
+        <li><a href="eventos.html">Próximos eventos</a></li>
+        <li><a href="contacto.html">Redes sociales y contacto</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <p>Compositor mexicano de música experimental</p>
+    </section>
+  </main>
+
+</body>
+</html>
